@@ -1,0 +1,16 @@
+# Core numerical / scientific stack
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+
+# Deep learning
+torch>=2.1
+
+# EEG-specific utilities (added as needed in later phases)
+# mne>=1.5
+
+# Testing
+pytest>=7.4
+
+# Plotting (results/ablation visualization, later phases)
+matplotlib>=3.7
